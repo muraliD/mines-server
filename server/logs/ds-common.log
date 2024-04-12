@@ -1,0 +1,2266 @@
+[2023-07-13T17:05:02.045] [ERROR] common - Uncaught Exception
+[2023-07-13T17:05:02.045] [ERROR] common - Uncaught Exception
+[2023-07-13T17:05:02.049] [ERROR] common - [Error: ENOENT: no such file or directory, open 'D:\2023\Scrap-Programming\ESI-NEW\output\coupa\64afdd022ce216444cb62014\64afdd022ce216444cb62014-input.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\2023\\Scrap-Programming\\ESI-NEW\\output\\coupa\\64afdd022ce216444cb62014\\64afdd022ce216444cb62014-input.json'
+}
+[2023-07-13T17:05:02.049] [ERROR] common - [Error: ENOENT: no such file or directory, open 'D:\2023\Scrap-Programming\ESI-NEW\output\coupa\64afdd022ce216444cb62014\64afdd022ce216444cb62014-input.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\2023\\Scrap-Programming\\ESI-NEW\\output\\coupa\\64afdd022ce216444cb62014\\64afdd022ce216444cb62014-input.json'
+}
+[2023-07-13T17:05:02.052] [ERROR] common - Error: ENOENT: no such file or directory, open 'D:\2023\Scrap-Programming\ESI-NEW\output\coupa\64afdd022ce216444cb62014\64afdd022ce216444cb62014-input.json'
+[2023-07-13T17:05:02.052] [ERROR] common - Error: ENOENT: no such file or directory, open 'D:\2023\Scrap-Programming\ESI-NEW\output\coupa\64afdd022ce216444cb62014\64afdd022ce216444cb62014-input.json'
+[2023-07-13T17:06:26.236] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-07-13T17:39:17.839] [INFO] common - Running in undefined mode @ http://localhost:8000
+[2023-07-13T17:39:27.870] [ERROR] common - Uncaught Exception
+[2023-07-13T17:39:27.870] [ERROR] common - Uncaught Exception
+[2023-07-13T17:39:27.872] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\2023\Scrap-Programming\ESI-NEW\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[2023-07-13T17:39:27.872] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\2023\Scrap-Programming\ESI-NEW\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[2023-07-13T17:39:27.872] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\2023\Scrap-Programming\ESI-NEW\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[2023-07-13T17:39:27.872] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\2023\Scrap-Programming\ESI-NEW\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[2023-07-13T17:39:27.882] [ERROR] common - Uncaught Exception
+[2023-07-13T17:39:27.882] [ERROR] common - Uncaught Exception
+[2023-07-13T17:39:27.883] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\2023\Scrap-Programming\ESI-NEW\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[2023-07-13T17:39:27.883] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\2023\Scrap-Programming\ESI-NEW\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[2023-07-13T17:39:27.884] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\2023\Scrap-Programming\ESI-NEW\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[2023-07-13T17:39:27.884] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\2023\Scrap-Programming\ESI-NEW\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7)
+[2023-12-18T16:48:48.125] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T16:48:48.135] [ERROR] common - Uncaught Exception
+[2023-12-18T16:48:48.135] [ERROR] common - Uncaught Exception
+[2023-12-18T16:48:48.135] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T16:48:48.135] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T16:48:48.136] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T16:48:48.136] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T16:48:58.147] [ERROR] common - Uncaught Exception
+[2023-12-18T16:48:58.147] [ERROR] common - Uncaught Exception
+[2023-12-18T16:48:58.147] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:48:58.147] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:48:58.148] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:48:58.148] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:48:58.150] [ERROR] common - Uncaught Exception
+[2023-12-18T16:48:58.150] [ERROR] common - Uncaught Exception
+[2023-12-18T16:48:58.150] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:48:58.150] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:48:58.150] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:48:58.150] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:59:30.721] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T16:59:30.729] [ERROR] common - Uncaught Exception
+[2023-12-18T16:59:30.729] [ERROR] common - Uncaught Exception
+[2023-12-18T16:59:30.729] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T16:59:30.729] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T16:59:30.729] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T16:59:30.729] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T16:59:40.739] [ERROR] common - Uncaught Exception
+[2023-12-18T16:59:40.739] [ERROR] common - Uncaught Exception
+[2023-12-18T16:59:40.739] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:59:40.739] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:59:40.740] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:59:40.740] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:59:40.742] [ERROR] common - Uncaught Exception
+[2023-12-18T16:59:40.742] [ERROR] common - Uncaught Exception
+[2023-12-18T16:59:40.742] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:59:40.742] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:59:40.742] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T16:59:40.742] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:00:54.145] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T17:00:54.153] [ERROR] common - Uncaught Exception
+[2023-12-18T17:00:54.153] [ERROR] common - Uncaught Exception
+[2023-12-18T17:00:54.153] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:00:54.153] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:00:54.154] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:00:54.154] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:01:04.176] [ERROR] common - Uncaught Exception
+[2023-12-18T17:01:04.176] [ERROR] common - Uncaught Exception
+[2023-12-18T17:01:04.176] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:01:04.176] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:01:04.176] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:01:04.176] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:01:04.179] [ERROR] common - Uncaught Exception
+[2023-12-18T17:01:04.179] [ERROR] common - Uncaught Exception
+[2023-12-18T17:01:04.180] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:01:04.180] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:01:04.180] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:01:04.180] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:04:58.117] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T17:04:58.125] [ERROR] common - Uncaught Exception
+[2023-12-18T17:04:58.125] [ERROR] common - Uncaught Exception
+[2023-12-18T17:04:58.125] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:04:58.125] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:04:58.125] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:04:58.125] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:05:08.135] [ERROR] common - Uncaught Exception
+[2023-12-18T17:05:08.135] [ERROR] common - Uncaught Exception
+[2023-12-18T17:05:08.135] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:08.135] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:08.135] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:08.135] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:08.138] [ERROR] common - Uncaught Exception
+[2023-12-18T17:05:08.138] [ERROR] common - Uncaught Exception
+[2023-12-18T17:05:08.138] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:08.138] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:08.138] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:08.138] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:35.117] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T17:05:35.127] [ERROR] common - Uncaught Exception
+[2023-12-18T17:05:35.127] [ERROR] common - Uncaught Exception
+[2023-12-18T17:05:35.127] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:05:35.127] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:05:35.127] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:05:35.127] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:05:45.138] [ERROR] common - Uncaught Exception
+[2023-12-18T17:05:45.138] [ERROR] common - Uncaught Exception
+[2023-12-18T17:05:45.138] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:45.138] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:45.139] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:45.139] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:45.141] [ERROR] common - Uncaught Exception
+[2023-12-18T17:05:45.141] [ERROR] common - Uncaught Exception
+[2023-12-18T17:05:45.141] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:45.141] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:45.142] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:05:45.142] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:11:55.690] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T17:11:55.699] [ERROR] common - Uncaught Exception
+[2023-12-18T17:11:55.699] [ERROR] common - Uncaught Exception
+[2023-12-18T17:11:55.699] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:11:55.699] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:11:55.700] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:11:55.700] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:12:05.710] [ERROR] common - Uncaught Exception
+[2023-12-18T17:12:05.710] [ERROR] common - Uncaught Exception
+[2023-12-18T17:12:05.710] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:12:05.710] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:12:05.710] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:12:05.710] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:12:05.712] [ERROR] common - Uncaught Exception
+[2023-12-18T17:12:05.712] [ERROR] common - Uncaught Exception
+[2023-12-18T17:12:05.713] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:12:05.713] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:12:05.713] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:12:05.713] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:13:44.450] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T17:13:44.460] [ERROR] common - Uncaught Exception
+[2023-12-18T17:13:44.460] [ERROR] common - Uncaught Exception
+[2023-12-18T17:13:44.460] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:13:44.460] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:13:44.460] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:13:44.460] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:13:54.470] [ERROR] common - Uncaught Exception
+[2023-12-18T17:13:54.470] [ERROR] common - Uncaught Exception
+[2023-12-18T17:13:54.470] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:13:54.470] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:13:54.471] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:13:54.471] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:13:54.474] [ERROR] common - Uncaught Exception
+[2023-12-18T17:13:54.474] [ERROR] common - Uncaught Exception
+[2023-12-18T17:13:54.474] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:13:54.474] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:13:54.474] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:13:54.474] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:15:07.581] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T17:15:07.589] [ERROR] common - Uncaught Exception
+[2023-12-18T17:15:07.589] [ERROR] common - Uncaught Exception
+[2023-12-18T17:15:07.589] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:15:07.589] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:15:07.590] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:15:07.590] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:15:17.599] [ERROR] common - Uncaught Exception
+[2023-12-18T17:15:17.599] [ERROR] common - Uncaught Exception
+[2023-12-18T17:15:17.599] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:15:17.599] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:15:17.600] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:15:17.600] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:15:17.602] [ERROR] common - Uncaught Exception
+[2023-12-18T17:15:17.602] [ERROR] common - Uncaught Exception
+[2023-12-18T17:15:17.602] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:15:17.602] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:15:17.603] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:15:17.603] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:16:15.194] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T17:16:15.205] [ERROR] common - Uncaught Exception
+[2023-12-18T17:16:15.205] [ERROR] common - Uncaught Exception
+[2023-12-18T17:16:15.206] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:16:15.206] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:16:15.206] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:16:15.206] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:16:40.527] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T17:16:40.539] [ERROR] common - Uncaught Exception
+[2023-12-18T17:16:40.539] [ERROR] common - Uncaught Exception
+[2023-12-18T17:16:40.539] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:16:40.539] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:16:40.539] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:16:40.539] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:20:52.663] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T17:20:52.671] [ERROR] common - Uncaught Exception
+[2023-12-18T17:20:52.671] [ERROR] common - Uncaught Exception
+[2023-12-18T17:20:52.671] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:20:52.671] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:20:52.672] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:20:52.672] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:21:02.680] [ERROR] common - Uncaught Exception
+[2023-12-18T17:21:02.680] [ERROR] common - Uncaught Exception
+[2023-12-18T17:21:02.681] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:02.681] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:02.681] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:02.683] [ERROR] common - Uncaught Exception
+[2023-12-18T17:21:02.684] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:02.681] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:02.684] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:02.683] [ERROR] common - Uncaught Exception
+[2023-12-18T17:21:02.684] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:02.684] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:33.413] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T17:21:33.421] [ERROR] common - Uncaught Exception
+[2023-12-18T17:21:33.421] [ERROR] common - Uncaught Exception
+[2023-12-18T17:21:33.422] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:21:33.422] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T17:21:33.422] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:21:33.422] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T17:21:43.432] [ERROR] common - Uncaught Exception
+[2023-12-18T17:21:43.432] [ERROR] common - Uncaught Exception
+[2023-12-18T17:21:43.433] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:43.433] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:43.433] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:43.433] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:43.435] [ERROR] common - Uncaught Exception
+[2023-12-18T17:21:43.435] [ERROR] common - Uncaught Exception
+[2023-12-18T17:21:43.435] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:43.435] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:43.436] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T17:21:43.436] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:27:53.205] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T18:27:53.212] [ERROR] common - Uncaught Exception
+[2023-12-18T18:27:53.212] [ERROR] common - Uncaught Exception
+[2023-12-18T18:27:53.212] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:27:53.212] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:27:53.213] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:27:53.213] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:28:03.223] [ERROR] common - Uncaught Exception
+[2023-12-18T18:28:03.223] [ERROR] common - Uncaught Exception
+[2023-12-18T18:28:03.223] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:28:03.223] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:28:03.223] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:28:03.223] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:28:03.226] [ERROR] common - Uncaught Exception
+[2023-12-18T18:28:03.226] [ERROR] common - Uncaught Exception
+[2023-12-18T18:28:03.226] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:28:03.226] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:28:03.227] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:28:03.227] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:35:06.831] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T18:35:06.841] [ERROR] common - Uncaught Exception
+[2023-12-18T18:35:06.841] [ERROR] common - Uncaught Exception
+[2023-12-18T18:35:06.841] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:35:06.841] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:35:06.841] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:35:06.841] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:35:16.852] [ERROR] common - Uncaught Exception
+[2023-12-18T18:35:16.852] [ERROR] common - Uncaught Exception
+[2023-12-18T18:35:16.852] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:35:16.852] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:35:16.852] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:35:16.852] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:35:16.854] [ERROR] common - Uncaught Exception
+[2023-12-18T18:35:16.854] [ERROR] common - Uncaught Exception
+[2023-12-18T18:35:16.855] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:35:16.855] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:35:16.855] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:35:16.855] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:36:06.643] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T18:36:06.651] [ERROR] common - Uncaught Exception
+[2023-12-18T18:36:06.651] [ERROR] common - Uncaught Exception
+[2023-12-18T18:36:06.652] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:36:06.652] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:36:06.652] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:36:06.652] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:36:16.668] [ERROR] common - Uncaught Exception
+[2023-12-18T18:36:16.668] [ERROR] common - Uncaught Exception
+[2023-12-18T18:36:16.668] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:36:16.668] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:36:16.669] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:36:16.669] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:36:16.671] [ERROR] common - Uncaught Exception
+[2023-12-18T18:36:16.671] [ERROR] common - Uncaught Exception
+[2023-12-18T18:36:16.671] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:36:16.671] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:36:16.672] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:36:16.672] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:37:14.825] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T18:37:14.833] [ERROR] common - Uncaught Exception
+[2023-12-18T18:37:14.833] [ERROR] common - Uncaught Exception
+[2023-12-18T18:37:14.834] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:37:14.834] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:37:14.834] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:37:14.834] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:37:24.845] [ERROR] common - Uncaught Exception
+[2023-12-18T18:37:24.845] [ERROR] common - Uncaught Exception
+[2023-12-18T18:37:24.845] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:37:24.845] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:37:24.845] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:37:24.845] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:37:24.848] [ERROR] common - Uncaught Exception
+[2023-12-18T18:37:24.848] [ERROR] common - Uncaught Exception
+[2023-12-18T18:37:24.848] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:37:24.848] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:37:24.848] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:37:24.848] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:37:58.446] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T18:37:58.454] [ERROR] common - Uncaught Exception
+[2023-12-18T18:37:58.454] [ERROR] common - Uncaught Exception
+[2023-12-18T18:37:58.454] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:37:58.454] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:37:58.454] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:37:58.454] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:38:08.466] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:08.466] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:08.466] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:08.466] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:08.467] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:08.467] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:08.471] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:08.471] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:08.472] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:08.472] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:08.472] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:08.472] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:25.107] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T18:38:25.114] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:25.114] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:25.115] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:38:25.115] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:38:25.115] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:38:25.115] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:38:35.124] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:35.124] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:35.124] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:35.124] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:35.124] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:35.124] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:35.127] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:35.127] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:35.127] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:35.127] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:35.127] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:35.127] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:38:59.692] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T18:38:59.700] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:59.700] [ERROR] common - Uncaught Exception
+[2023-12-18T18:38:59.700] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:38:59.700] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:38:59.700] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:38:59.700] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:39:09.714] [ERROR] common - Uncaught Exception
+[2023-12-18T18:39:09.714] [ERROR] common - Uncaught Exception
+[2023-12-18T18:39:09.714] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:09.714] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:09.714] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:09.717] [ERROR] common - Uncaught Exception
+[2023-12-18T18:39:09.714] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:09.717] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:09.717] [ERROR] common - Uncaught Exception
+[2023-12-18T18:39:09.717] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:09.717] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:09.717] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:37.476] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T18:39:37.484] [ERROR] common - Uncaught Exception
+[2023-12-18T18:39:37.484] [ERROR] common - Uncaught Exception
+[2023-12-18T18:39:37.485] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:39:37.485] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:39:37.485] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:39:37.485] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:39:47.498] [ERROR] common - Uncaught Exception
+[2023-12-18T18:39:47.498] [ERROR] common - Uncaught Exception
+[2023-12-18T18:39:47.499] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:47.499] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:47.499] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:47.499] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:47.503] [ERROR] common - Uncaught Exception
+[2023-12-18T18:39:47.503] [ERROR] common - Uncaught Exception
+[2023-12-18T18:39:47.503] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:47.503] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:47.503] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:39:47.503] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:40:44.398] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T18:40:44.409] [ERROR] common - Uncaught Exception
+[2023-12-18T18:40:44.409] [ERROR] common - Uncaught Exception
+[2023-12-18T18:40:44.410] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:40:44.410] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:40:44.410] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:40:44.410] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:40:54.421] [ERROR] common - Uncaught Exception
+[2023-12-18T18:40:54.421] [ERROR] common - Uncaught Exception
+[2023-12-18T18:40:54.421] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:40:54.421] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:40:54.421] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:40:54.421] [ERROR] common - MongooseError: Operation `users.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:40:54.425] [ERROR] common - Uncaught Exception
+[2023-12-18T18:40:54.425] [ERROR] common - Uncaught Exception
+[2023-12-18T18:40:54.426] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:40:54.426] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:40:54.426] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:40:54.426] [ERROR] common - MongooseError: Operation `roles.estimatedDocumentCount()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (D:\scrapmanager\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:186:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2023-12-18T18:45:47.243] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-18T18:45:47.254] [ERROR] common - Uncaught Exception
+[2023-12-18T18:45:47.254] [ERROR] common - Uncaught Exception
+[2023-12-18T18:45:47.254] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:45:47.254] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-18T18:45:47.255] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-18T18:45:47.255] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-19T09:51:39.769] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-19T09:51:39.779] [ERROR] common - Uncaught Exception
+[2023-12-19T09:51:39.779] [ERROR] common - Uncaught Exception
+[2023-12-19T09:51:39.780] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-19T09:51:39.780] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 80
+}
+[2023-12-19T09:51:39.780] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-19T09:51:39.780] [ERROR] common - Error: listen EADDRINUSE: address already in use :::80
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (D:\scrapmanager\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\scrapmanager\app.js:128:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2023-12-19T10:29:30.301] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-19T10:32:57.601] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-19T10:33:37.694] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:33:37.760] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:33:37.769] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:33:37.891] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:33:40.459] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:33:40.464] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:33:40.475] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:33:46.502] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:33:46.525] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:33:46.532] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:33:46.541] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:34:18.680] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:37:48.382] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:31.982] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:37.968] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-19T10:38:44.592] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:44.639] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:44.647] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:44.681] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:47.019] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:47.025] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:47.034] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:55.485] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:55.508] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:55.515] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:55.526] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:59.673] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:59.680] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:38:59.689] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:39:08.265] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:39:08.272] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:39:08.283] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:39:10.185] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:39:10.191] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:39:10.200] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:39:13.840] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:39:13.845] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:39:13.855] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:42:54.603] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:43:56.394] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:37.339] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:37.361] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:37.366] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:37.417] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:39.557] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:39.561] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:39.570] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:41.041] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:41.047] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:41.054] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:42.411] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:42.417] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:42.425] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:43.887] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:43.892] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:43.900] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:44.703] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:44.707] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:44.714] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:45.415] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:45.420] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:44:45.429] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:46:45.810] [INFO] common - Running in undefined mode @ http://localhost:80
+[2023-12-19T10:46:48.684] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:02.068] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:02.110] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:02.118] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:02.157] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:04.380] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:04.387] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:04.395] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:09.836] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:09.862] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:09.868] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:09.880] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:12.828] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:12.834] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:12.845] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:20.665] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:20.671] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:20.684] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:21.821] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:21.828] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:21.836] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:23.052] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:23.058] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:23.067] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:24.066] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:24.067] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:24.076] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:25.149] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:25.154] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:25.161] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:26.863] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:26.867] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:26.875] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:30.125] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:30.130] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:30.136] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:31.212] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:31.219] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:31.227] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:43.061] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:43.066] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:43.076] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:44.302] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:44.309] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:44.320] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:45.363] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:45.368] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:45.381] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:46.650] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:46.655] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:46.665] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:48.103] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:48.107] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:48.117] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:49.337] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:49.341] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:49.350] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:50.429] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:50.434] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:50.445] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:51.540] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:51.544] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:51.556] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:52.557] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:52.562] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:52.573] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:53.690] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:53.695] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:53.704] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:54.590] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:54.595] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:54.602] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:55.715] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:55.719] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:55.729] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:56.698] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:56.704] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:56.724] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:57.805] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:57.809] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:57.818] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:58.647] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:58.653] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:58.667] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:59.643] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:59.649] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:47:59.657] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:48:00.435] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:48:00.441] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:48:00.449] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:48:01.741] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:48:01.747] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:48:01.762] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:48:05.691] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:48:05.696] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:48:05.703] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:51:12.080] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:51:58.685] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:55:22.078] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:55:46.535] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:59:32.081] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T10:59:55.914] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T11:03:42.080] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T11:03:58.926] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T11:07:52.082] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2023-12-19T11:07:55.663] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
