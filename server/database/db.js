@@ -18,10 +18,12 @@ const connectDB = async () => {
 
     var local = 'mongodb://'+username+':'+password+'@'+host+'/'+dbname+'?authMechanism=DEFAULT'
 
+    
+
 
     // var local = 'mongodb://salvoadmin:Salvob%40kerAdmin027@127.0.0.1:27777/salvodb?authMechanism=DEFAULT'
-    var prod =  'mongodb://salvoadmin:Salvob@kerAdmin027@bmeurq2865.bakernet.com:27777/salvodb?authMechanism=DEFAULT'
-    const conn = await mongoose.connect(local, {
+    var prod =  'mongodb://admin:mines@13.232.30.108:27017/mydb?authMechanism=DEFAULT'
+    const conn = await mongoose.connect(prod, {
         useNewUrlParser: true,
         useUnifiedTopology: true,
     });
