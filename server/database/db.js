@@ -13,8 +13,11 @@ const connectDB = async () => {
    
    
     
-    var local = 'mongodb://localhost:27017/mydb'
-    console.log(local);
+    // var local = 'mongodb://localhost:27017/mydb'
+    // console.log(local);
+
+    var local = 'mongodb://'+username+':'+password+'@'+host+'/'+dbname+'?authMechanism=DEFAULT'
+
 
     // var local = 'mongodb://salvoadmin:Salvob%40kerAdmin027@127.0.0.1:27777/salvodb?authMechanism=DEFAULT'
     var prod =  'mongodb://salvoadmin:Salvob@kerAdmin027@bmeurq2865.bakernet.com:27777/salvodb?authMechanism=DEFAULT'

@@ -6,6 +6,9 @@
 var path = require("path");
 
 
+
+
+
 module.exports = {
 
   JWTKey: "MinesJwt",
@@ -190,19 +193,19 @@ module.exports = {
         poolSize: 5
       }
     },
-
+   
 
     dev: {
-      host: "mongodb://localhost:27017/salvodev",
+      host: "mongodb://localhost:27017/mines",
       dbOptions: {
         native_parser: true
       },
       mongodb: {
         hosts: ["localhost:27017"],
-        //  hosts: ["34.210.115.91:27495"],
-        name: "salvodb",
-        username: "mines",
-        password: "Salvob@kerAdmin027",
+     
+        name: "mydb",
+        username: "admin",
+        password: "mines",
         //  port: 27495,
         //  poolSize: 5,
         migrations: {
