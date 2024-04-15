@@ -124,13 +124,13 @@ module.exports = {
     },
     test: {
       uri: "http://localhost:80",
-      port: 80,
+      port: 8000,
       baseDir: "",
       logFilePath: "./logs/"
     },
     dev: {
       uri: "http://localhost",
-      port: 80,
+      port: 8000,
       httpsport:443,
       baseDir: path.join(__dirname, "../../"),
       logFilePath: "./logs/"
