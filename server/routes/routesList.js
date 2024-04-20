@@ -77,6 +77,36 @@
       params: {},
       constraints: constraints["home"]
     },
+
+
+    {
+      routeName: "getdashboardData",
+      routeUrl: "/api/getdashboardData",
+      routeMethod: "post",
+      routeController: "dashboard",
+      routeHandler: "getdashboardData",
+      accessTo: "*",
+      isSecured: false,
+      isArray: false,
+      cache: false,
+      data: null,
+      params: {},
+      constraints: constraints["home"]
+    },
+    {
+      routeName: "updatedashboardData",
+      routeUrl: "/api/updatedashboardData",
+      routeMethod: "post",
+      routeController: "dashboard",
+      routeHandler: "updatedashboardData",
+      accessTo: "*",
+      isSecured: false,
+      isArray: false,
+      cache: false,
+      data: null,
+      params: {},
+      constraints: constraints["home"]
+    },
      
      {
        routeName: "users",

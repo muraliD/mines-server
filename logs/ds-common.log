@@ -332,3 +332,49 @@ SyntaxError: Unexpected token '.'
     message: 'Expected uri parameter to have length >= 1, but found "" for params.Bucket'
   }
 }
+[2024-04-20 22:17:44.392] [INFO] common - Running in undefined mode @ http://localhost:8000
+[2024-04-20 22:17:44.409] [ERROR] common - Uncaught Exception
+[2024-04-20 22:17:44.409] [ERROR] common - { inspect: [Function: inspect] }
+[2024-04-20 22:17:44.409] [ERROR] common - Error: listen EADDRINUSE: address already in use :::8000
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\mdadi\OneDrive - Fulcrum GT\Documents\GitHub\mines-server\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\mdadi\OneDrive - Fulcrum GT\Documents\GitHub\mines-server\app.js:145:6)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+[2024-04-20 22:18:19.477] [INFO] common - Running in undefined mode @ http://localhost:8000
+[2024-04-20 22:23:39.699] [ERROR] common - Uncaught Exception
+[2024-04-20 22:23:39.700] [ERROR] common - { inspect: [Function: inspect] }
+[2024-04-20 22:23:39.701] [ERROR] common - ReferenceError: v is not defined
+    at Object.<anonymous> (C:\Users\mdadi\OneDrive - Fulcrum GT\Documents\GitHub\mines-server\server\controllers\dashboard.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at C:\Users\mdadi\OneDrive - Fulcrum GT\Documents\GitHub\mines-server\server\routes\routesConfigs.js:126:21
+    at arrayEach (C:\Users\mdadi\OneDrive - Fulcrum GT\Documents\GitHub\mines-server\node_modules\lodash\lodash.js:530:11)
+    at Function.forEach (C:\Users\mdadi\OneDrive - Fulcrum GT\Documents\GitHub\mines-server\node_modules\lodash\lodash.js:9410:14)
+[2024-04-20 22:24:56.378] [ERROR] common - Uncaught Exception
+[2024-04-20 22:24:56.379] [ERROR] common - { inspect: [Function: inspect] }
+[2024-04-20 22:24:56.380] [ERROR] common - ReferenceError: v is not defined
+    at Object.<anonymous> (C:\Users\mdadi\OneDrive - Fulcrum GT\Documents\GitHub\mines-server\server\controllers\dashboard.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at C:\Users\mdadi\OneDrive - Fulcrum GT\Documents\GitHub\mines-server\server\routes\routesConfigs.js:126:21
+    at arrayEach (C:\Users\mdadi\OneDrive - Fulcrum GT\Documents\GitHub\mines-server\node_modules\lodash\lodash.js:530:11)
+    at Function.forEach (C:\Users\mdadi\OneDrive - Fulcrum GT\Documents\GitHub\mines-server\node_modules\lodash\lodash.js:9410:14)
+[2024-04-20 22:27:03.756] [INFO] common - Running in undefined mode @ http://localhost:8000
+[2024-04-20 22:27:27.277] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2024-04-20 22:40:08.680] [INFO] common - Running in undefined mode @ http://localhost:8000
+[2024-04-20 23:05:30.233] [INFO] common - Running in undefined mode @ http://localhost:8000
+[2024-04-20 23:05:46.346] [INFO] common - { statusCode: 200, statusMessage: 'Success' }

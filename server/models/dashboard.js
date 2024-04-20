@@ -31,13 +31,13 @@ async function run() {
 
       var data = {}
 
-      data["banners"] = [];
-      data["title1"] = {}
-      data["title2"] = true;
-      data["productinfo"] = {"bannerimage":"","products":[]}
-      data["title3"] = {}
-      data["locations"] = {}
-      data["partnerImages"] = {"bannerimage":"","products":[]}
+      data["banners"] = {"images":[],"text1":"","text2":"","text3":"","text4":""};
+      data["title1"] = {"text1":"","text2":"","text3":"","content":""}
+      data["title2"] = {"text1":"","text2":"","text3":"","content":""}
+      data["productinfo"] = {"bannerimage":"","products":[{"image":"","title":"","content":""}]}
+      data["title3"] = {"text1":"","text2":"","text3":"","content":""}
+      data["locations"] = [{"image":"","title":"","content":""}]
+      data["partnerImages"] = [{"image":""}]
       data["status"] = true
 
       dashboardModel.create(data)
