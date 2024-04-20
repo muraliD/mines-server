@@ -63,6 +63,20 @@
        params: {},
        constraints: constraints["home"]
      },
+     {
+      routeName: "createMedia",
+      routeUrl: "/api/createMedia",
+      routeMethod: "post",
+      routeController: "media",
+      routeHandler: "createMedia",
+      accessTo: "*",
+      isSecured: true,
+      isArray: false,
+      cache: false,
+      data: { data: "@data" },
+      params: {},
+      constraints: constraints["home"]
+    },
      
      {
        routeName: "users",
