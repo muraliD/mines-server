@@ -378,3 +378,13 @@ SyntaxError: Unexpected token '.'
 [2024-04-20 22:40:08.680] [INFO] common - Running in undefined mode @ http://localhost:8000
 [2024-04-20 23:05:30.233] [INFO] common - Running in undefined mode @ http://localhost:8000
 [2024-04-20 23:05:46.346] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2024-04-20 23:08:04.808] [INFO] common - Running in undefined mode @ http://localhost:8000
+[2024-04-20 23:08:26.603] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2024-04-20 23:09:19.819] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2024-04-20 23:09:19.827] [ERROR] common - Uncaught Exception
+[2024-04-20 23:09:19.827] [ERROR] common - { inspect: [Function: inspect] }
+[2024-04-20 23:09:19.828] [ERROR] common - ReferenceError: error is not defined
+    at exports.updatedashboardData (C:\Users\mdadi\OneDrive - Fulcrum GT\Documents\GitHub\mines-server\server\controllers\dashboard.js:76:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-04-20 23:09:34.512] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
+[2024-04-20 23:10:19.578] [INFO] common - { statusCode: 200, statusMessage: 'Success' }
