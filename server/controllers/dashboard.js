@@ -7,6 +7,10 @@ var dashboard = require("../models/dashboard");
 const ObjectID = require('mongoose').Types.ObjectId;
 
 exports.getdashboardData = async function (req, res) {
+    var error = {
+        code: 500,
+        message: ""
+    };
 
     try {
 
@@ -35,7 +39,10 @@ exports.getdashboardData = async function (req, res) {
 
 };
 exports.updatedashboardData = async function (req, res) {
-
+    var error = {
+        code: 500,
+        message: ""
+    };
     try {
 
         var data = req.body;
