@@ -201,8 +201,8 @@ module.exports = {
         hosts: ["localhost:27017"],
         //  hosts: ["34.210.115.91:27495"],
         name: "mydb",
-        username: "admin",
-        password: "mines",
+        username: "mines",
+        password: "mines@1234",
         //  port: 27495,
         //  poolSize: 5,
         migrations: {
