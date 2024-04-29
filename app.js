@@ -3,8 +3,7 @@ var _ = require("lodash");
 
 const express = require('express');
  const connectDB = require('./server/database/db');
-var users = require("./server/models/users");
-var roles = require('./server/models/roles')
+
 
 var dslog = require("./server/utils/dslog");
 var utils = require("./server/utils/utils");
@@ -13,15 +12,11 @@ var cors = require("cors");
 var session = require("express-session");
 var bodyParser = require("body-parser");
 var cookieParser = require("cookie-parser");
-const theme = "scrapmanager/client/dist/scrapmanager";
-const outputs = "scrapmanager/output";
-const screenshots = "scrapmanager/screenshots";
-const path = require('path');
+;
+
 
 const app = express();
-var http = require('http');
-var https = require('https');
-var fs = require('fs')
+
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
 //body parser
@@ -47,35 +42,7 @@ app.use(cookieParser());
 
 
 
-  // app.get('/output/*', function(req, res, next) {
-  //   var fullUrl = req.protocol + '://' + req.get('host') + req.originalUrl;
-  //   if (fullUrl.indexOf(".pdf") == -1){
-  //       // do something
-  //       console.log(req.query)
-  //       res.end('No valid source')
-  //     } else {
-  //       next() // Ok, try static
-  //     }
-  //   })
-
-  //   app.get('/screenshots/*', function(req, res, next) {
-  //     var fullUrl = req.protocol + '://' + req.get('host') + req.originalUrl;
-  //     if (fullUrl.indexOf(".png") == -1){
-  //         // do something
-  //         console.log(req.query)
-  //         res.end('No valid source')
-  //       } else {
-  //         next() // Ok, try static
-  //       }
-  //     })
-    
-  // app.use('/output',express.static(path.resolve(__dirname,'..' ,outputs)))
-  // app.use('/screenshots',express.static(path.resolve(__dirname,'..' ,screenshots)))
-
-  // app.use(express.static(path.resolve(__dirname, '..', theme)));
-  
-
-  
+ 
   app.use(function(req, res, next) {
     console.log("session information");
     console.dir(req.session.globals);
@@ -143,18 +110,6 @@ app.use(cors());
 const PORT = process.env.PORT || 5000;
 
  app.listen(process.env.PORT || serverConfigs.runTimeConfig.dev.port, null);
-
-//  var httpServer = http.createServer(app);
-
-// const httpsOptions = {
-//   key: fs.readFileSync('./security/bmeurq2865_bakernet_com.key'),
-//   cert: fs.readFileSync('./security/cer2.cer')
-// }
-
-// var httpsServer = https.createServer(httpsOptions,app);
-
-// httpServer.listen(process.env.PORT || serverConfigs.runTimeConfig.dev.port, null);
-// httpsServer.listen(process.env.PORT || serverConfigs.runTimeConfig.dev.httpsport, null);
 
 
 dslog.info(
