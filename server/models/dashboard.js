@@ -36,6 +36,7 @@ async function run() {
       data["title2"] = {"text1":"","text2":"","text3":"","content":""}
       data["productinfo"] = {"bannerimage":"","products":[{"image":"","title":"","content":""}]}
       data["title3"] = {"text1":"","text2":"","text3":"","content":""}
+      data["title4"] = {"text1":"","text2":"","text3":"","content":""}
       data["locations"] = [{"image":"","title":"","content":""}]
       data["partnerImages"] = [{"image":""}]
       data["status"] = true
