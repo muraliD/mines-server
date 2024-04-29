@@ -45,7 +45,7 @@ exports.createMedia = async function (req, res) {
                         }
                         console.log(`File uploaded successfully. 
                                   ${data.Location}`);
-                        res.status(200).send({ sucess: true, message: data.Location });
+                        res.status(200).send({ sucess: true, message: data.Location,index:fields.index[0] });
 
                     } catch (err) {
 
