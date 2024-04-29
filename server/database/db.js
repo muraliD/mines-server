@@ -15,7 +15,7 @@ const connectDB = async () => {
     
     // var local = 'mongodb://localhost:27017/mydb'
     // var prod = ""
-    console.log(local);
+    console.log(local+"test");
     var local = 'mongodb://'+username+':'+password+'@'+host+'/'+dbname+'?authMechanism=DEFAULT'
    
 
