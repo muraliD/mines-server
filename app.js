@@ -17,7 +17,7 @@ var cookieParser = require("cookie-parser");
 
 const app = express();
 
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
+
 
 //body parser
 app.use(express.json());
