@@ -80,8 +80,21 @@ exports.updatedashboardData = async function (req, res) {
 
      
     } catch (err) {
-        error.message = "Enter Valid Data";
-        utils.sendResponseForAPI(error, req, res, null);
+        try{
+            error.message = "Enter Valid Data";
+            utils.sendResponseForAPI({
+                code: 500,
+                message: ""
+            }, req, res, null);
+
+        }catch(err){
+            utils.sendResponseForAPI({
+                code: 500,
+                message: ""
+            }, req, res, null);
+
+        }
+       
 
     }
 
