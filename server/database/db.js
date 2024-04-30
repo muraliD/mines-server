@@ -20,7 +20,7 @@ const connectDB = async () => {
    
 
     // var local = 'mongodb://salvoadmin:Salvob%40kerAdmin027@127.0.0.1:27777/salvodb?authMechanism=DEFAULT'
-    var prod =  'mongodb://mines:mines%401234@13.201.15.221:27017/mydb?authSource=mydb&authMechanism=DEFAULT'
+    var prod =  'mongodb://mines:mines%401234@65.2.182.39:27017/mydb?authSource=admin&authMechanism=SCRAM-SHA-256'
 
    
 
