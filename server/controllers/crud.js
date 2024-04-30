@@ -6,12 +6,12 @@ var _ = require("lodash");
 const ObjectID = require('mongoose').Types.ObjectId;
 var utils = require("../utils/utils");
 const path = require('path');
-let theme = "scrapmanager/client/dist/scrapmanager";
+// let theme = "scrapmanager/client/dist/scrapmanager";
 
 exports.getindex = function(req, res) {
  // res.sendFile('./server/index.html');
   //res.sendFile('./client/index.html', { root: __dirname });
-  res.sendFile(path.resolve(__dirname, '..', theme, 'index.html'))
+  // res.sendFile(path.resolve(__dirname, '..', theme, 'index.html'))
 }
 /**********************************************************************************************************************************************
    * 2 To get collection details 

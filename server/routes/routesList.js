@@ -18,51 +18,7 @@
  
  module.exports = {
    routesList: [
-     {
-       routeName: "getacollection",
-       routeUrl: "/api/search/:collection",
-       routeMethod: "get",
-       routeController: "crud",
-       routeHandler: "getacollection",
-       accessTo: "*",
-       isSecured: false,
-       isArray: false,
-       cache: false,
-       data: null,
-       params: {},
-       constraints: constraints["home"]
-     },
- 
-     {
-       routeName: "createacollection",
-       routeUrl: "/api/create",
-       routeMethod: "post",
-       routeController: "crud",
-       routeHandler: "createacollection",
-       accessTo: "*",
-       isSecured: true,
-       isArray: false,
-       cache: false,
-       data: { data: "@data" },
-       params: {},
-       constraints: constraints["home"]
-     },
- 
-    
-     {
-       routeName: "getindex",
-       routeUrl: "/",
-       routeMethod: "get",
-       routeController: "crud",
-       routeHandler: "getindex",
-       accessTo: "*",
-       isSecured: false,
-       isArray: false,
-       cache: false,
-       data: null,
-       params: {},
-       constraints: constraints["home"]
-     },
+     
      {
       routeName: "createMedia",
       routeUrl: "/api/createMedia",
